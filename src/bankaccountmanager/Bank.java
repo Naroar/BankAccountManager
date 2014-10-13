@@ -15,7 +15,7 @@ import java.io.IOException;
 public class Bank {
 
     /**
-     * @param args the command line arguments
+     * @param args the command line argumentsfds
      * @throws IOException When not entering a numerical value or not in valid
      * range
      */
